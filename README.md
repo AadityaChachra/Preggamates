@@ -15,4 +15,12 @@ Technical development: Developing a robust and reliable app that can handle the 
 
 Monetization: Monetizing a pregnant mothers' community app can be challenging, as users may be reluctant to pay for a community app. Finding a sustainable revenue model, such as through advertising or partnerships with healthcare providers, may require significant market research and experimentation.
 
+Utopia
+
+Mothers who are expecting have a forum where they can share their pregnancy advice and learn from other mothers' experiences
+
+Mothers can obtain precise advice regarding the ideal nutrition for their newborns
+
+Mothers can be well aware of the health complications regarding pregnancy and accordingly take actions if required. 
+
 
