@@ -1,4 +1,4 @@
-# preggamates
+# Preggamates
 To-be Moms need a forum where they can interact with other mothers and exchange experiences.
 Every pregnant woman faces the risk of sudden, unpredictable complication that could end in death or injury to herself or to her infant.
 Every mother wants her child to be healthy, but she is uncertain of what she should eat or do in terms of practices. 
